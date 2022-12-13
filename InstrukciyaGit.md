@@ -25,10 +25,10 @@ __________________________________________________________________
 ## Настройки
 __________________________________________________________________
 Перед началом работы нужно выполнить некоторые настройки:
-![скрин1](//GitHub/SecondProject/Imagines/perednachalom.jpg)
+![скрин1](https://github.com/DmitriyVU/SecondProject/blob/master/Imagines/perednachalom.jpg)
 
 Если вы в Windows:
-![скрин2](//GitHub/SecondProject/Imagines/eslivivwindows.jpg)
+![скрин2](https://github.com/DmitriyVU/SecondProject/blob/master/Imagines/eslivivwindows.jpg)
 
 ## Консоль Bash
 [Как использовать Консоль Bash в Windows](https://github.com/cyberspacedk/BASH-Commands)
