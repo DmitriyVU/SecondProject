@@ -25,7 +25,7 @@ __________________________________________________________________
 ## Настройки
 __________________________________________________________________
 Перед началом работы нужно выполнить некоторые настройки:
-![скрин1](/SecondProject/Imagines/perednachalom.jpg)
+![скрин1](https://github.com/DmitriyVU/SecondProject/blob/master/Imagines/eslivivwindows.jpg)
 
 Если вы в Windows:
 ![скрин2](/SecondProject/Imagines/eslivivwindows.jpg)
